@@ -1,10 +1,23 @@
-![](https://komarev.com/ghpvc/?username=Makoto041)
-# My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/Makoto041/posts.svg)](http://qiita.com/Makoto041)
-# My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Makoto041/contributions.svg)](http://qiita.com/Makoto041)
-# My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/Makoto041/followers.svg)](http://qiita.com/Makoto041)
+
+<p align="left">
+  <a href="https://github.com/Makoto041">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Makoto041" />
+  </a>
+  <a href="https://github.com/Makoto041">
+    <img height="20" src="https://img.shields.io/github/followers/Makoto041?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/buchi014">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/buchi014/posts.svg" />
+  </a>
+  <a href="http://qiita.com/buchi014">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/buchi014/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/makoto014">
+    <img height="20" src="https://badgen.org/img/zenn/makoto014/articles?style=plastic" />
+  </a>
+</p>
+
+
 
 ![](https://raw.githubusercontent.com/Makoto041/Makoto041/output/github-contribution-grid-snake.svg)
 
