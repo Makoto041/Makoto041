@@ -2,9 +2,9 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 毎日0時に実行
+    - cron: '0 0 * * *'
   push:
-    branches: [main]     # main ブランチに push されたときにも実行
+    branches: [main]
   workflow_dispatch:
 
 jobs:
@@ -17,3 +17,4 @@ jobs:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Makoto041
+          TOKEN: ${{ secrets.TOKEN }}  
