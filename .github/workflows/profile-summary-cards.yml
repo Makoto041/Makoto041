@@ -6,6 +6,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+  issues: read
+  pull-requests: read
 
 jobs:
   build:
