@@ -1,4 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=Makoto041)
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Makoto041/posts.svg)](http://qiita.com/Makoto041)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Makoto041/contributions.svg)](http://qiita.com/Makoto041)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/Makoto041/followers.svg)](http://qiita.com/Makoto041)
 
 ![](https://raw.githubusercontent.com/Makoto041/Makoto041/output/github-contribution-grid-snake.svg)
 
