@@ -6,11 +6,6 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
-permissions:
-  contents: read
-  actions: read
-  issues: read
-  pull-requests: read
 
 jobs:
   build:
@@ -22,4 +17,4 @@ jobs:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Makoto041
-          TOKEN: ${{ secrets.TOKEN }}  
+          TOKEN: ${{ secrets.TOKEN }}  # ✅ これを追加！
